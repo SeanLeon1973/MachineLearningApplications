@@ -19,7 +19,7 @@ The code within DRAGAN.py is based on (https://arxiv.org/abs/1705.07215), which 
 
 # Monetify.py
 
-This is based on the work in DCGAN.py; however, the input to the generator is not a vector of random noise but rather a stock image. I found crisp, defined shapes to be challenging for DCGAN.py to generate. As a result, I gave it a stock image and looked to see if the DCGAN could morph that image into a Monet-like image. The resulting images are shown below. 
+This is based on the work in DCGAN.py; however, the input to the generator is not a vector of random noise but rather a stock image. I found crisp, defined shapes to be challenging for DCGAN.py to generate. As a result, I gave it a stock image and looked to see if the DCGAN could morph that image into a Monet-like image. The resulting images are shown below. The image on the left is the generate image and the image on the right is reference.
 
 <p float="center">
   <img src="https://user-images.githubusercontent.com/45838898/174731433-6c69e430-b531-422a-a3fd-1fce1dc6f2c1.png" width="375" />
