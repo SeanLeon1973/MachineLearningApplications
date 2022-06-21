@@ -1,9 +1,9 @@
 # Machine Learning Applications
 
-## Class Projects
+## ClassProjects
 
-A set of machine learning applications developed as class projects. 
+The ClassProjects directory contains a set of machine learning applications developed as class projects.
 
 ## Gene Regulatory Network-Graph Convolutional Networks (GRN-GCN)
 
-A machine learning application onto the problem of reconstructing a GRN from RNA-seq data. 
+The GRN-GCN directory contains a machine learning application to the problem of reconstructing a GRN from RNA-seq data.
